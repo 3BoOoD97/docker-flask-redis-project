@@ -1,0 +1,29 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Env files
+.env
+.env.*
+
+# Docker
+*.pid
+*.log
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
